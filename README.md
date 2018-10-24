@@ -3,5 +3,6 @@ A Mozfest Gallery designed to educate people on how your interactions with your 
 Through doing this, we use the data from the interactions with these devices to determine their personality type, taking inspiration from the Myers-Briggs Personality Test and having 16 different personalities that people could identify with.
 ## Components of Repo
 This Repo Includes The Following:
-* <b>SimulatedFridge.ino</b> - In the project, to simulate someones decision on food choices, I used an arduino that used Light-Dependent Resistors as a means to identify whether or not an Item Was taken, which will feed back as the users choice of food item.
+* <b>SimulatedFridge.ino</b> - In the project, to simulate someones decision on food choices, I used an arduino that used Light-Dependent Resistors as a means to identify whether or not an Item Was taken, which will feed back as the users choice of food item. I developed this using C, and used 4 different food items that the user cans select from, which will send the data back to the machine learning algorithm.
+* <
 
